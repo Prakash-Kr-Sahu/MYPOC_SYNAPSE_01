@@ -2,7 +2,7 @@
 	"name": "POC_LS_SQL_DB",
 	"type": "Microsoft.Synapse/workspaces/linkedservices",
 	"properties": {
-		"description": "POC_LS_SQL_DB1",
+		"description": "POC_LS_SQL_DB2",
 		"parameters": {
 			"P_SQL_SERVER": {
 				"type": "string",
